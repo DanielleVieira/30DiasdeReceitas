@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">30 Dias de Receitas</string>
+    <string name="recipe_1_label">Dia 1</string>
+    <string name="recipe_1_title">Bolo de Chocolate</string>
+    <string name="recipe_2_label">Dia 2</string>
+    <string name="recipe_2_title">Hamburguer</string>
+    <string name="recipe_3_label">Dia 3</string>
+    <string name="recipe_3_title">Lasanha de Frango</string>
+    <string name="recipe_4_label">Dia 4</string>
+    <string name="recipe_4_title">Sala de Alface</string>
+    <string name="recipe_5_label">Dia 5</string>
+    <string name="recipe_5_title">Salpicão de Frango</string>
+    <string name="show_more">Mostrar mais</string>
+    <string name="show_less">Mostrar menos</string>
+    <string name="button_label_more">Mais...</string>
+    <string name="button_label_less">Menos...</string>
+</resources>
